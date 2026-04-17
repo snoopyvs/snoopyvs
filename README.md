@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=555555,aaaaaa&height=120&section=header&animation=fadeIn" alt="Soft Grey Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello%2C+I'm+Valentino;Cloud+Infrastructure+Enthusiast" alt="Cloud Infrastructure Enthusiast"/>
 </a>
-
 
 <div>
     <img src="terminal_valent.gif" alt="About Me Terminal GIF"/>
@@ -27,8 +25,12 @@ Currently, I document my infrastructure setups, deployment scripts, and project 
 
 ### Connect with me!
 <div>
-    <a href="www.linkedin.com/in/valentino-joan-cesar-551b06328">
+    <a href="https://www.linkedin.com/in/valentino-joan-cesar-551b06328" target="_blank">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/valennst_/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/>
     </a>
 </div>
 
